@@ -1,0 +1,5 @@
+blockdiag==1.5.3
+funcparserlib==0.3.6
+Pillow==5.1.0
+PyYAML==3.12
+webcolors==1.8.1
